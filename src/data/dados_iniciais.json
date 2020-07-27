@@ -1,0 +1,213 @@
+{
+  "categorias": [
+    {
+      "titulo": "Musicas",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#423144",
+      "link_extra": {
+        "text": "Playlist no Spotify",
+        "url": "https://open.spotify.com/playlist/2OQaWpxLzs4nGRpQ1oJIjP?si=IXDRbBhXRcSx3qrgLGrDZw"
+      },
+      "videos": [
+        {
+          "titulo": "Blink 182 - Asthenia",
+          "url": "https://www.youtube.com/watch?v=4qqCwwfi588"
+        },
+        {
+          "titulo": "My Chemical Romance - Welcome To The Black Parade",
+          "url": "https://www.youtube.com/watch?v=RRKJiM9Njr8"
+        },
+        {
+          "titulo": "Panic! At The Disco: Northern Downpour",
+          "url": "https://www.youtube.com/watch?v=zouSojyIi94"
+        },
+        {
+          "titulo": "Sum 41 - With Me",
+          "url": "https://www.youtube.com/watch?v=D61Qeke6h9I"
+        },
+        {
+          "titulo": "Paramore - All I Wanted",
+          "url": "https://www.youtube.com/watch?v=rypWFP2CggM"
+        },
+        {
+          "titulo": "Fall Out Boy - Sugar, We're Goin Down",
+          "url": "https://www.youtube.com/watch?v=uhG-vLZrb-g"
+        },
+        {
+          "titulo": "Man Overboard - Wide Awake",
+          "url": "https://www.youtube.com/watch?v=dMUhtmSCJkU"
+        },
+        {
+          "titulo": "Neck Deep - A Part of Me",
+          "url": "https://www.youtube.com/watch?v=VOyYwzkQB98"
+        }        
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#900d0d",
+      "link_extra": {
+        "text": "Playlis com os filmes",
+        "url": "https://www.canva.com/design/DAEDMGoXud8/hMLMUONobTqtPHE4KsLdQw/view?utm_content=DAEDMGoXud8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+      },
+      "videos": [
+        {
+          "titulo": "Brilho eterno de uma mente sem lembranças",
+          "url": "https://www.youtube.com/watch?v=dXUHs5rAY4Q"
+        },
+        {
+          "titulo": "Interestelar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "O Jogo da Imitação",
+          "url": "https://www.youtube.com/watch?v=YIkKbMcJL_4"
+        },
+        {
+          "titulo": "Matrix",
+          "url": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+        }, 
+        {
+          "titulo": "Up",
+          "url": "https://www.youtube.com/watch?v=ORFWdXl_zJ4"
+        },
+        {
+          "titulo": "Orgulho e Preconceito",
+          "url": "https://www.youtube.com/watch?v=Y6XneqkfD3c"
+        },
+        {
+          "titulo": "I origins",
+          "url": "https://www.youtube.com/watch?v=Mk4briOLrTQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#1f4068",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Life is strange",
+          "url": "https://www.youtube.com/watch?v=AURVxvIZrmU"
+        },
+        {
+          "titulo": "To the moon",
+          "url": "https://www.youtube.com/watch?v=sqkJuSV-23U"
+        },
+        {
+          "titulo": "Wargroove",
+          "url": "https://www.youtube.com/watch?v=CoSfTpNjaSA"
+        },
+        {
+          "titulo": "What Remains of Edith Finch",
+          "url": "https://www.youtube.com/watch?v=S0kKF5f8nS0"
+        },
+        {
+          "titulo": "Celeste",
+          "url": "https://www.youtube.com/watch?v=iofYDsA2yqg"
+        },
+        {
+          "titulo": "Ori and the blind forest",
+          "url": "https://www.youtube.com/watch?v=cklw-Yu3moE"
+        }
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#54123b",
+      "videos": [
+        {
+          "titulo": "Steins;Gate",
+          "url": "https://www.youtube.com/watch?v=uMYhjVwp0Fk"
+        },
+        {
+          "titulo": "Naruto",
+          "url": "https://www.youtube.com/watch?v=j2hiC9BmJlQ"
+        },
+        {
+          "titulo": "Vinland Saga",
+          "url": "https://www.youtube.com/watch?v=38e5U-c37xk"
+        },
+        {
+          "titulo": "Kimetsu no Yaiba",
+          "url": "https://www.youtube.com/watch?v=VQGCKyvzIM4"
+        },
+        {
+          "titulo": "Full Metal Alchemist brotherhood",
+          "url": "https://www.youtube.com/watch?v=g_pR8e-SCnE"
+        },
+        {
+          "titulo": "The promised Neverland",
+          "url": "https://www.youtube.com/watch?v=ApLudqucq-s"
+        },
+        {
+          "titulo": "Violet Evergarden",
+          "url": "https://www.youtube.com/watch?v=UZEOpfelkxQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Canais",
+      "cor": "#0fabbc",
+      "videos": [
+        {
+          "titulo": "Nautilus - A Vida Real em Life is Strange",
+          "url": "https://www.youtube.com/watch?v=Jb9fDFfd77M"
+        },
+        {
+          "titulo": "Alura - O que são Git e Github?",
+          "url": "https://www.youtube.com/watch?v=P4BNi_yPehc"
+        },
+        {
+          "titulo": "Lucas Montano - Como criar um aplicativo",
+          "url": "https://www.youtube.com/watch?v=E6DI4kbzKFY"
+        },
+        {
+          "titulo": "Curso em video - Seja um Programador",
+          "url": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+        },
+        {
+          "titulo": "Dev Soutinho - Fazendo a interface do Player do Spotify",
+          "url": "https://www.youtube.com/watch?v=UTGWsO-nYwM"
+        },
+        {
+          "titulo": "CollabCode - Pare de chutar e aprenda",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
